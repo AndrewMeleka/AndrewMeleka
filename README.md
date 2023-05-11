@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">Top Freelancer - Web Developer - JavaScript Full Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewmeleka&label=Profile%20views&color=0e75b6&style=flat" alt="andrewmeleka" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewmeleka&label=Profile%20views&color=4A00E0&style=flat" alt="andrewmeleka" /> </p>
 
 - 🔭 I’m Founder [NEXTEME](https://www.nexteme.com/)
 
